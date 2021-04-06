@@ -1,0 +1,9 @@
+configs\sg.json
+# Basic Eliza bnb. No assist, just point Eliza
+2+LK W15 2+MK W28 2+HP W48 2 3 6+MK W56
+6  5 [6] W30 2+HK W23 6 2 3+HP W20
+9 5 W15 MP W20 HP W20 MP+HP W10
+LK W10 MP W20 HP W30
+2+MK W28 HP W35 HP W15 2 1 4+LK W55
+LK W15 2+MK W28 HP W35 HP W15 2 1 4+HK W70 
+2 3 6+MP+HP W460 2 1 4+LP
